@@ -4,6 +4,7 @@
 - [LinkedIn](https://www.linkedin.com/in/artan-merko-5b5b35231/)
 - [Twitter](https://twitter.com/ArtanMerko)
 - [Artan Merko](https://artanmerko.github.io/homepage/)
+- artanmerko@gmail.com
 
 <!---
 artanmerko/artanmerko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
