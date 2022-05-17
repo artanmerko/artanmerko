@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @artanmerko
+- 👋 Hi, I’m @artanmerko (BASc) Bachelor of Applied Science Engineer
 - 👀 I’m interested in Science and Technology
 - 💻 I’m focused on beginning my career in Web Development/Software Engineering
 - 🌱  I've completed The Odin Project's Full Stack JavaScript development curriculum
