@@ -1,3 +1,9 @@
+![image title](https://rushter.com/counter.svg)
+
+
+
+
+
 - 👋 Hi, I’m @artanmerko (BASc) Bachelor of Applied Science Engineer
 - 👀 I’m interested in Science and Technology
 - 💻 I’m focused on beginning my career in Web Development/Software Engineering
@@ -5,7 +11,6 @@
 - ☀️ [LinkedIn](https://www.linkedin.com/in/artan-merko-5b5b35231/)
 [Twitter](https://twitter.com/ArtanMerko) [Artan Merko](https://artanmerko.github.io/homepage/)
 
-![image title](https://rushter.com/counter.svg)
 
 
 <!-- -
