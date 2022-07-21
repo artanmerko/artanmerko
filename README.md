@@ -1,10 +1,3 @@
-![image title](https://rushter.com/counter.svg)
-
-
-![Visitor Count](https://profile-counter.glitch.me/{artanmerko}/count.svg)
-
-
-
 - 👋 Hi, I’m @artanmerko (BASc) Bachelor of Applied Science Engineer
 - 👀 I’m interested in Science and Technology
 - 💻 I’m focused on beginning my career in Web Development/Software Engineering
@@ -17,4 +10,7 @@
 <!-- -
 artanmerko/artanmerko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+![image title](https://rushter.com/counter.svg)
+
 --->
