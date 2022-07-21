@@ -6,7 +6,7 @@
 [Twitter](https://twitter.com/ArtanMerko) [Artan Merko](https://artanmerko.github.io/homepage/)
 
 
-![Profile views](https://gpvc.arturio.dev/[YOUR_PROFILE_USERNAME])
+![Profile views](https://gpvc.arturio.dev/[artanmerko])
 
 <!-- -
 artanmerko/artanmerko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
