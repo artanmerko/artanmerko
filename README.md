@@ -5,6 +5,7 @@
 - ☀️ [LinkedIn](https://www.linkedin.com/in/artan-merko-5b5b35231/)
 [Twitter](https://twitter.com/ArtanMerko) [Artan Merko](https://artanmerko.github.io/homepage/)
 
+![image title](https://rushter.com/counter.svg)
 
 
 <!-- -
