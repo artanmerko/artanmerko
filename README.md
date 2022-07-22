@@ -5,7 +5,7 @@
 - ☀️ [LinkedIn](https://www.linkedin.com/in/artan-merko-5b5b35231/)
 [Twitter](https://twitter.com/ArtanMerko) [Artan Merko](https://artanmerko.github.io/homepage/)
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)[https://github.com/artanmerko]
+![(https://github.com/artanmerko)](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)[https://github.com/artanmerko]
 
 
 
