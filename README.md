@@ -3,7 +3,7 @@
 - 💻 I’m focused on beginning my career in Software Developer
 - 🌱  I've completed The Odin Project's Full Stack JavaScript Development Curriculum and CS50X Project
 - :link: [LinkedIn](https://www.linkedin.com/in/artan-merko-5b5b35231/)
- [Twitter](https://twitter.com/ArtanMerko) [Artan Merko](https://artanmerko.github.io/homepage/)
+ [Twitter](https://twitter.com/ArtanMerko) 
 
 
 
