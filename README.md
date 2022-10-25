@@ -4,6 +4,7 @@
 - 🌱  I've completed The Odin Project's Full Stack JavaScript Development Curriculum and CS50X Project
 - :link: [LinkedIn](https://www.linkedin.com/in/artan-merko-5b5b35231/)
  [Twitter](https://twitter.com/ArtanMerko) [Artan Merko](https://artanmerko.github.io/homepage/)
+[github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=G!itHub&logoColor=white)
 
 <!-- -
 artanmerko/artanmerko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
