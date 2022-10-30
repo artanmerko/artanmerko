@@ -1,9 +1,9 @@
-``- 👋 Hi, I’m @artanmerko, Bachelor of Applied Science Engineer
+`- 👋 Hi, I’m @artanmerko, Bachelor of Applied Science Engineer`
 - 👀 I’m interested in Science and Technology
 - 💻 I’m focused on beginning my career in Software Developer
 - 🌱  I've completed The Odin Project's Full Stack JavaScript Development Curriculum and CS50X Project
 - :link: [LinkedIn](https://www.linkedin.com/in/artan-merko-5b5b35231/)
- [Twitter](https://twitter.com/ArtanMerko)`` 
+ [Twitter](https://twitter.com/ArtanMerko)
 
 
 
