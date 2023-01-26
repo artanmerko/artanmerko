@@ -7,9 +7,12 @@
 
 
 *Let's connect*
-#### 🔗[LinkedIn](https://www.linkedin.com/in/artanmerko/)
-#### 📧 <a href = "mailto: artanmerko@gmail.com"><i>Email<i></a>
-
+<!-- #### 🔗[LinkedIn](https://www.linkedin.com/in/artanmerko/)
+#### 📧 <a href = "mailto: artanmerko@gmail.com"><i>Email<i></a> -->
+  
+[![Linkedin Badge](https://img.shields.io/badge/-artanmerko-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/artanmerko/)](https://www.linkedin.com/in/artanmerko/)
+[![Gmail Badge](https://img.shields.io/badge/-artanmerko@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mailto:artanmerko@gmail.com)](mailto:artanmerko@gmail.com)
+  
 <!-- -
 artanmerko/artanmerko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
