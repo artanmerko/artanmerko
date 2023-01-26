@@ -1,10 +1,10 @@
-```
-  👋 Hi, I’m @artanmerko, Bachelor of Applied Science Engineer
-  👀 I’m interested in Science and Technology
-  💻 I’m focused on beginning my career in Software Developer
-  🌱 I've completed The Odin Project's Full Stack JavaScript Development Curriculum and CS50X Project
 
-```
+- 👋 Hi, I’m @artanmerko, Full Stack Developer
+- 👀 As a Full Stack Developer, I am highly motivated  with a passion for machine learning and AI. 
+- 🌱 I completed MERN Full Stack Program at Coding Dojo, The Odin Project's Full Stack JavaScript Development and CS50X Project at Harvard, which provided me a strong foundation in software development and web technologies.  
+- 💻 I have experience in building modern web applications using technologies such as React, Node.js, and MongoDB. My goal is to continue learning and growing as a software developer and to work on projects that will have a positive impact on people's lives.
+
+
 
 <!-- -
 artanmerko/artanmerko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
