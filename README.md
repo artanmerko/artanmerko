@@ -8,7 +8,7 @@
 
 *Let's connect*
 ##### 🔗[LinkedIn](https://www.linkedin.com/in/artanmerko/)
-##### <a href = "mailto: artanmerko@gmail.com">Send Email</a>
+##### <a href = "mailto: artanmerko@gmail.com">Email Me</a>
 
 <!-- -
 artanmerko/artanmerko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
