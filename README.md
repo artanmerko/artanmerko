@@ -6,6 +6,8 @@
 - 🎯 *My goal is to continue learning and growing as a software developer and to work on projects that will have a positive impact on people's lives.*
 
 
+*Let's connect*
+##### 🔗[LinkedIn](https://www.linkedin.com/in/artanmerko/)
 
 <!-- -
 artanmerko/artanmerko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
