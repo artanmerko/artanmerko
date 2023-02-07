@@ -11,8 +11,8 @@
 #### 📧 <a href = "mailto: artanmerko@gmail.com"><i>Email<i></a> -->
 
   
-[![Linkedin Badge](https://img.shields.io/badge/-artanmerko-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/artanmerko/)](https://www.linkedin.com/in/artanmerko/)
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artanmerko@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artanmerko/)
+[![GMAIL](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artanmerko@gmail.com)
 [![Portfolio](https://img.shields.io/badge/ARTAN-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://artanmerko.netlify.app/)
 
 <!-- -
