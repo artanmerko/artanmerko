@@ -13,7 +13,6 @@
   
 [![Linkedin Badge](https://img.shields.io/badge/-artanmerko-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/artanmerko/)](https://www.linkedin.com/in/artanmerko/)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artanmerko@gmail.com)
-<!-- [![Gmail Badge](https://img.shields.io/badge/-artanmerko@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mailto:artanmerko@gmail.com)](mailto:artanmerko@gmail.com) -->
 [![Portfolio](https://img.shields.io/badge/ARTAN-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://artanmerko.netlify.app/)
 
 <!-- -
